@@ -1,0 +1,11 @@
+.box {
+    border: solid 10px blueviolet;
+    margin-top: 10px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
+.parent {
+    display: flex;
+    justify-content: space-around;
+}
